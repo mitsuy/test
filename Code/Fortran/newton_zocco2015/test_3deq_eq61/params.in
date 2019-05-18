@@ -1,0 +1,11 @@
+&params
+me=0.01
+temp_e=1.
+temp_i=0.01
+nu_e=0.5
+ls=10.    
+lt=0.2 
+beta_e=0.01 
+ky=0.094
+omega_old=(0,0)
+/
